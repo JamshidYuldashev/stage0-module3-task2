@@ -9,6 +9,6 @@ public class JavaVariableNames {
         int _underscore = 10000;
         int sharp = 100000;
         int star = 1000000;
-        int badExampleOfVarName = 1000000;
+        int badExampleVarName = 1000000;
     }
 }
